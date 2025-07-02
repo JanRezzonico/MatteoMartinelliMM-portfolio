@@ -9,7 +9,7 @@ const m = [
         key: MARVEL,
         imageUrl: '/afse.webp',
         url: 'https://github.com/MatteoMartinelliMM/afse',
-        techList: ['Javascript', 'Bootstrap', 'NodeJS', 'MongoDB']
+        techList: ['JavaScript', 'Bootstrap', 'NodeJS', 'MongoDB']
     },
     {
         key: PORTFOLIO,
